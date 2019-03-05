@@ -1,0 +1,2 @@
+# HatsuonCompare
+Pronunciation comparison app
